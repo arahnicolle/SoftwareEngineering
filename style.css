@@ -16,6 +16,7 @@
 
  .header-img {
     margin-left: 300px;
+    
   }
 
   .form {
@@ -39,8 +40,8 @@
     float:left;
     text-align:center;
     background:#ddd;
-    color:#555;
     cursor:pointer;
+    font-size: 18px;
   }
 
   .form .tab-header > div.active {
@@ -70,7 +71,7 @@
     width:100px;
     margin: 20px 0px;
     margin-left: 95px ;
-    color: #000000;
+    color: black;
   }
 
   .form .tab-content .form-element label {
@@ -78,7 +79,7 @@
   }
 
   .form .tab-content .form-element button {
-    margin-top:5px;
+    margin-top:20px;
     width:100%;
     padding:10px;
     border:none;
