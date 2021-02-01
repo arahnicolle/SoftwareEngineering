@@ -15,6 +15,6 @@ for(let i = 0; i<tabPanes.length; i++){
         document.getElementsByClassName("tab-content")
         [0].getElementsByClassName("tab-body")
         [i].classList.remove("active");
-        
+
     });
 }
